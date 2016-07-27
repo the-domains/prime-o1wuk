@@ -1,14 +1,26 @@
-layout_spectrum: 0.182355661643669
-typography_spectrum: 0.7498404514044523
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.5238813313189894
-  lightness: 0.7627868172712624
   saturation: 0.9161963497754186
+  brandStrength: 0.5238813313189894
   rhythmicContrast: 0.9978426757734269
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  lightness: 0.7627868172712624
+typography_spectrum: 0.4390681
+layout_spectrum: 0.9086022
 name: Prime
