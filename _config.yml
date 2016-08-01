@@ -1,3 +1,17 @@
+typography_spectrum: 0.4390681
+color:
+  saturation: 0.9161963497754186
+  brandStrength: 0.5238813313189894
+  rhythmicContrast: 0.9978426757734269
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  lightness: 0.7627868172712624
+layout_spectrum: 0.9086022
+name: Prime
 collections:
   - index:
       path: /
@@ -10,17 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9161963497754186
-  brandStrength: 0.5238813313189894
-  rhythmicContrast: 0.9978426757734269
-  brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-  lightness: 0.7627868172712624
-typography_spectrum: 0.4390681
-layout_spectrum: 0.9086022
-name: Prime
+title: PrimeTime
+description: ONEtimeONLY
